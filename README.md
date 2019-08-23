@@ -16,4 +16,4 @@ The large datasets for these files can be found on my Google Drive.
 ### The Images:
 Finally, this repo also contains images of outputs from the .ipynb files, including a dendrogram of the authors 
 
-!(https://github.com/kateschulz/ANLY580/blob/master/Ward_Dendrogram_Authors.png)
+![dendrogram](https://github.com/kateschulz/ANLY580/blob/master/Ward_Dendrogram_Authors.png)
