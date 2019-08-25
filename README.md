@@ -15,7 +15,7 @@ The large datasets for these files can be found on my Google Drive.
 * list of authors -- This repo also contains a [csv](https://github.com/kateschulz/ANLY580/blob/master/author_bin_df.csv) that contains a list of author names and their corresponding bins. 
 
 ### The Images:
-Finally, this repo also contains images of outputs from the .ipynb files, including the validation accuracies of the tokens and tages
+Finally, this repo also contains images of outputs from the .ipynb files, including the validation accuracies of the tokens and tags
 
 ![token accuracy](https://github.com/kateschulz/ANLY580/blob/master/Tokens_Accuracy.png)
 ![tag accuracy](https://github.com/kateschulz/ANLY580/blob/master/Tags_Accuracy.png)
