@@ -1,6 +1,9 @@
 # ANLY580: Natural Language Processing
 ## Author Identification for NLP
 
+### The Paper:
+The final [pdf](https://github.com/kateschulz/ANLY580/blob/master/Schulz_NLP_Paper.pdf) for this project, including background, methodology, data processing, model development, and findings. 
+
 ### The Code:
 This repo contains three .ipynb that were run in Google Colab. 
 
